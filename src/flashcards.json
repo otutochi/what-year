@@ -1,0 +1,201 @@
+[
+    {"event": "The Battle of Hastings leads to Norman conquest of England",  
+     "year": "1066",  
+     "difficulty": "medium",  
+     "image": "hastings.jpeg"},  
+
+    {"event": "The signing of the Magna Carta",  
+     "year": "1215",  
+     "difficulty": "medium",  
+     "image": "magnaCarta.jpeg"},  
+
+    {"event": "The Black Death devastates Europe",  
+     "year": "1347",  
+     "difficulty": "hard",  
+     "image": "blackDeath.jpeg"},  
+
+    {"event": "The Fall of Constantinople to the Ottoman Empire",  
+     "year": "1453",  
+     "difficulty": "medium",  
+     "image": "constantinople.jpeg"},  
+
+    {"event": "Christopher Columbus reaches the Americas",  
+     "year": "1492",  
+     "difficulty": "easy",  
+     "image": "columbus.jpeg"},  
+
+    {"event": "Martin Luther posts the 95 Theses, starting the Reformation",  
+     "year": "1517",  
+     "difficulty": "medium",  
+     "image": "mlk.jpeg"},  
+
+    {"event": "The defeat of the Spanish Armada",  
+     "year": "1588",  
+     "difficulty": "medium",  
+     "image": "spanishArmada.jpeg"},  
+
+    {"event": "The Mayflower arrives in North America",  
+     "year": "1620",  
+     "difficulty": "easy",  
+     "image": "mayFlower.jpeg"},  
+
+    {"event": "The English Civil War begins",  
+     "year": "1642",  
+     "difficulty": "hard",  
+     "image": "englishCivilWar.jpeg"},  
+
+    {"event": "The Great Fire of London",  
+     "year": "1666",  
+     "difficulty": "easy",  
+     "image": "londonFire.jpeg"},  
+
+    {"event": "The American Declaration of Independence is signed",  
+     "year": "1776",  
+     "difficulty": "easy",  
+     "image": "americanIndependence.jpeg"},  
+
+    {"event": "The French Revolution begins",  
+     "year": "1789",  
+     "difficulty": "hard",  
+     "image": "frenchRevolution.jpeg"},  
+
+    {"event": "Napoleon becomes Emperor of France",  
+     "year": "1804",  
+     "difficulty": "medium",  
+     "image": "napoleon.jpeg"},  
+
+    {"event": "The War of 1812 between the U.S. and Britain",  
+     "year": "1812",  
+     "difficulty": "medium",  
+     "image": "warOf1812.jpeg"},  
+
+    {"event": "The first photograph is taken",  
+     "year": "1826",  
+     "difficulty": "hard",  
+     "image": "photograph.jpeg"},  
+
+    {"event": "The California Gold Rush begins",  
+     "year": "1848",  
+     "difficulty": "easy",  
+     "image": "california.jpeg"},  
+
+    {"event": "Abraham Lincoln is elected U.S. President",  
+     "year": "1860",  
+     "difficulty": "medium",  
+     "image": "lincoln.jpeg"},  
+
+    {"event": "The American Civil War begins",  
+     "year": "1861",  
+     "difficulty": "hard",  
+     "image": "americanCivilWar.jpeg"},  
+
+    {"event": "The assassination of Abraham Lincoln",  
+     "year": "1865",  
+     "difficulty": "medium",  
+     "image": "lincolnAssassination.jpeg"},  
+
+    {"event": "The telephone is invented by Alexander Graham Bell",  
+     "year": "1876",  
+     "difficulty": "medium",  
+     "image": "telephone.jpeg"},  
+
+    {"event": "The Statue of Liberty is dedicated",  
+     "year": "1886",  
+     "difficulty": "easy",  
+     "image": "statueOfLiberty.jpeg"},  
+
+    {"event": "The Wright brothers' first powered flight",  
+     "year": "1903",  
+     "difficulty": "easy",  
+     "image": "wrightBrothers.jpeg"},  
+
+    {"event": "The Titanic sinks",  
+     "year": "1912",  
+     "difficulty": "medium",  
+     "image": "titanic.jpeg"},  
+
+    {"event": "World War I begins",  
+     "year": "1914",  
+     "difficulty": "hard",  
+     "image": "worldWarI.jpeg"},  
+
+    {"event": "Women gain the right to vote in the U.S. (19th Amendment)",  
+     "year": "1920",  
+     "difficulty": "easy",  
+     "image": "nineteenthAmendment.jpeg"},  
+
+    {"event": "The stock market crashes, starting the Great Depression",  
+     "year": "1929",  
+     "difficulty": "hard",  
+     "image": "stockMarket.jpeg"},  
+
+    {"event": "Germany invades Poland, starting World War II",  
+     "year": "1939",  
+     "difficulty": "hard",  
+     "image": "worldWarII.jpeg"},  
+
+    {"event": "The attack on Pearl Harbor",  
+     "year": "1941",  
+     "difficulty": "medium",  
+     "image": "pearlHarbor.jpeg"},  
+
+    {"event": "The atomic bombs are dropped on Hiroshima and Nagasaki",  
+     "year": "1945",  
+     "difficulty": "hard",  
+     "image": "atomicBombings.jpeg"},  
+
+    {"event": "India gains independence from Britain",  
+     "year": "1947",  
+     "difficulty": "medium",  
+     "image": "indianIndependence.jpeg"},  
+
+    {"event": "The Korean War begins",  
+     "year": "1950",  
+     "difficulty": "hard",  
+     "image": "koreanWar.jpeg"},  
+
+    {"event": "The launch of Sputnik, the first artificial satellite",  
+     "year": "1957",  
+     "difficulty": "medium",  
+     "image": "sputnik.jpeg"},  
+
+    {"event": "The Cuban Missile Crisis",  
+     "year": "1962",  
+     "difficulty": "hard",  
+     "image": "cubanMissile.jpeg"},  
+
+    {"event": "Martin Luther King Jr.'s 'I Have a Dream' speech",  
+     "year": "1963",  
+     "difficulty": "easy",  
+     "image": "iHaveADream.jpeg"},  
+
+    {"event": "Neil Armstrong becomes the first person to walk on the moon",  
+     "year": "1969",  
+     "difficulty": "easy",  
+     "image": "neilArmstrong.jpeg"},  
+
+    {"event": "The Watergate scandal leads to Nixon’s resignation",  
+     "year": "1974",  
+     "difficulty": "medium",  
+     "image": "watergateScandal.jpeg"},  
+
+    {"event": "The fall of the Berlin Wall",  
+     "year": "1989",  
+     "difficulty": "medium",  
+     "image": "berlinWall.jpeg"},  
+
+    {"event": "The 9/11 terrorist attacks",  
+     "year": "2001",  
+     "difficulty": "medium",  
+     "image": "nineOneOne.jpeg"},  
+
+    {"event": "The global financial crisis begins",  
+     "year": "2008",  
+     "difficulty": "hard",  
+     "image": "globalFinancialCrisis.jpeg"},
+     
+    {"event": "COVID-19 pandemic begins",
+     "year": "2019",
+     "difficulty": "medium",
+     "image": "covid19.jpeg"}  
+]

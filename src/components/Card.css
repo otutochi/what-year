@@ -1,0 +1,74 @@
+.card {
+    width: 600px;
+    height: 300px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    overflow: hidden;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+.card p {
+    margin: 20px 0;
+    flex-grow: 1;
+}
+
+/* Difficulty Level Styles */
+.easy {
+    /* background-color: #d4edda; /* Light green */
+    border: 2px solid #28a745;
+    color: #155724;
+}
+
+.medium {
+    /* background-color: #fff3cd; /* Light yellow */
+    border: 2px solid #ffc107;
+    color: #856404;
+}
+
+.hard {
+    /* background-color: #f8d7da; /* Light red */
+    border: 2px solid #dc3545;
+    color: #721c24;
+}
+
+/* Hover effect */
+.card:hover {
+    transform: scale(1.01);
+}
+
+.year{
+    font-size: 5rem;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card, button, .App h1 {
+    transition: all 0.3s ease;
+}
+
+.start {
+    font-size: 5rem;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
