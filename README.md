@@ -110,7 +110,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Implementing the Master Card/Unmaster Card and Show Mastered/Show Unmastered buttons was difficult
 
 ## License
 
