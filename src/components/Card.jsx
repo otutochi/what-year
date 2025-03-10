@@ -1,12 +1,10 @@
 import React, { useState } from "react";
 import './Card.css';
-import flashcards from '../flashcards.json';
 
-const Card = (props) => {
+const Card = ({ currentFlashCard, mode, onClick }) => {
 
-    const index = props.index;
-    const mode = props.mode;
-    const randomFlashcard = flashcards[index];
+    
+    const randomFlashcard = currentFlashCard;
     const difficultyClass = randomFlashcard.difficulty.toLowerCase();
 
     let content;
@@ -34,7 +32,7 @@ const Card = (props) => {
 
 
     return (
-        <div className={`card ${difficultyClass}`} onClick={props.onClick}  >
+        <div className={`card ${difficultyClass}`} onClick={onClick}  >
 
         {content}
 

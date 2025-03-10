@@ -21,7 +21,7 @@ body {
 }
 
 h1, h2, h3 {
-  font-family: 'Lora', serif; /* For headers to create a nice contrast */
+  font-family: 'Lora', serif; 
 }
 
 h1 {
@@ -48,7 +48,7 @@ button {
   margin-top: 10px;
   border: none;
   cursor: pointer;
-  background-color: darkgrey;
+  background-color: grey;
   color: white;
   border-radius: 5px;
   transition: 0.3s;
@@ -58,12 +58,17 @@ button:hover {
   background-color: #333;
 }
 
+button:disabled {
+  background-color: darkgrey;
+  cursor: not-allowed;
+}
+
 .App {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Full screen height */
+  height: 100vh; 
   text-align: center;
   padding: 20px;
 }
@@ -77,3 +82,34 @@ button:hover {
 }
 
 
+
+
+.submitLine, .changeIndexLine, .shuffleLine {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 5px;
+}
+
+input {
+  padding: 10px;
+  font-size: 1rem;
+  width: 60%;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  outline: none;
+  transition: border-color 0.3s;
+}
+
+input:focus {
+  border-color: lightblue;
+}
+
+input.correct {
+  border-color: green;
+}
+
+input.wrong {
+  border-color: red;
+}
